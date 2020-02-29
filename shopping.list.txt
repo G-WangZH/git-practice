@@ -1,4 +1,4 @@
 this is shopping list.
 这是新增的东西
-
+在另一个分支上继续增加一条信息
 这是git-practice-another另一个分支提交的信息
